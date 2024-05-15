@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 👋 🖕
 
-<!--
-**profkleber/profkleber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é K
 
-Here are some ideas to get you started:
+- Estou sendo forçando a fazer programação
+- Estou me desenrolando na linguagem JavaSript
+- Utilizo esse espaço para ver como é que é
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📪 
+
+Mais não quero
+
+
+
+![](https://media.tenor.com/rdwIYpoFXecAAAAM/dog-no.gif)
